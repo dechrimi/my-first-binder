@@ -5,7 +5,7 @@ using Markdown
 using InteractiveUtils
 
 # ╔═╡ a60e9958-1589-11f0-1ffd-f7cbfd604b4b
-a=2
+a=3
 
 # ╔═╡ 0047d3c0-4f05-4ee3-ad6b-8d4b1645f444
 b=a+1
